@@ -1,4 +1,5 @@
 # 🛍️ Superstores Sales Performance Report (2023–2024)
+![](Dash2.png)
 📌 Introduction
 This project showcases an interactive Excel dashboard built to analyze and communicate sales performance insights for a retail superstore between January 2023 and December 2024. The dashboard enables business leaders to make data-driven decisions by providing a real-time snapshot of key sales metrics.
 
@@ -72,8 +73,9 @@ Power Query: to remove nulls, fix date formats, and ensure data type consistency
 📊 Exploratory Data Analysis & Dashboard Insights
 1. Top Salesperson
 David led with $16.39M in revenue, followed by Eve and Bob.
-
+![](Salesrep.png)
 2. Sales Over Time
+![](Trends.png)
 Peak revenue month: January ($7.49M)
 
 Lowest revenue: June ($4.75M)
@@ -82,27 +84,29 @@ Seasonal trend shows dips in Q2 and recoveries in Q3–Q4.
 
 3. Customer Growth
 496 new customers vs. 504 returning customers
-
+![](customers.png)
 Balanced growth indicating successful retention strategies
 
 4. Sales Channel Performance
 Online generated $35.74M revenue and $3.28M profit
-
+![](Saleschannel.png)
 Retail brought in $34.59M revenue and $3.21M profit
 
 Online slightly outperforms retail in both metrics
 
 5. Top Payment Method
 Credit Card was the most used (345 transactions)
-
+![](payment.png)
 Followed by Bank Transfer (342) and Cash (313)
 
 6. Product Category by Profit
+![](Products.png)
 Furniture led profit with $1.78M, followed by Clothing ($1.71M)
 
 Electronics and Food also showed strong margins
 
 7. Revenue by Region
+![](Region.png)
 North had the highest revenue ($18.21M)
 
 Close contenders: West ($18.08M) and East ($17.76M)
